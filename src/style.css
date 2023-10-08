@@ -1,10 +1,15 @@
+body{
+      background: #f8e8a6;
+}
 h1, p{
     text-align: center;
 }
-a{
+footer a{
 color: green;
 }
 .croissant{
 display: block;
 margin: 0 auto;
+border-radius: 4px;
+max-width: 100%;
 }
