@@ -1,0 +1,10 @@
+h1, p{
+    text-align: center;
+}
+a{
+color: green;
+}
+.croissant{
+display: block;
+margin: 0 auto;
+}
